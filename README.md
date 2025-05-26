@@ -2,7 +2,7 @@
 ### Install by add directly in `manifest.json` in folder `Packages/manifest.json`
 - for version `1.8.5`
 ```json
-"com.google.play.core" : "https://github.com/RageAgainstThePixel/com.google.play.core.git#1.8.5"
+"com.google.play.core" : "https://github.com/RageAgainstThePixel/com.google.play.core.git#1.8.5",
 ```
 - dependency `external-dependency-manager 1.2.172`
 ```json
